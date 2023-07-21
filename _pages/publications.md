@@ -39,6 +39,6 @@ author_profile: true
 
 ## Seminars
 
-1. ROSE Seminar: Simplified Approaches for the Seismic Risk Assessment of Non-Ductile Infilled RC Structures [[Presentation](http://almouayedbellah-nafeh.github.io/files/Conference/Presentations/ROSE-Seminar_2022_Nafeh_Simplified approaches for the risk assessment of non-ductile infilled RC structures.pdf)][[YouTube](https://www.youtube.com/watch?v=mjh_JaIeZgw&t=2s&ab_channel=ROSECentre)]
+1. ROSE Seminar: Simplified Approaches for the Seismic Risk Assessment of Non-Ductile Infilled RC Structures [[Presentation](http://almouayedbellah-nafeh.github.io/files/Conference/Presentations/ROSE-Seminar_2022_Nafeh_Simplified approaches for the risk assessment of non-ductile infilled RC structures)][[YouTube](https://www.youtube.com/watch?v=mjh_JaIeZgw&t=2s&ab_channel=ROSECentre)]
 
 ***Disclaimer:*** These publications are provided for timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by the authors or copyright holders. All persons using these documents are expected to adhere to the terms invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder.
