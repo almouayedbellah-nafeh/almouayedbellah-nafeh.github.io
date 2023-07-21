@@ -13,7 +13,7 @@ name                     : &name "Al Mouayed Bellah Nafeh"
 description              : &description "Doctoral Candidate in Understanding and Managing Extremes"
 url                      : https://almouayedbellah-nafeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "moayadnafeaa/almouayedbellah-nafeh.github.io"
+repository               : "almouayedbellah-nafeh/almouayedbellah-nafeh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,7 +84,7 @@ author:
   avatar           : "OReilly_Gerard_BW_cropped.png"
   bio              : "Doctoral Student at the Centre for Training and Research on Reduction of Seismic Risk (ROSE Centre) @ IUSS Pavia, Italy"
   location         : "Pavia, Italy"
-  employer         : 
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=4KIX2BwAAAAJ&hl=en&authuser=1"
   email            : "mouayed.nafeh@iusspavia.it"
@@ -100,20 +100,20 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/al-mouayed-bellah-nafeh/"
   orcid            : "https://orcid.org/0000-0002-3556-4039"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          :
   wikipedia        :
 
 
