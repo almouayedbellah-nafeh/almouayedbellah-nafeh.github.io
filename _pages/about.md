@@ -14,12 +14,4 @@ redirect_from:
 <li> <b>09/07/2023</b> - Presentation: "Towards the assessment and risk classification of existing building typologies using storey-loss functions" at ICASP14 - 14th International Conference on Applications of Statistics and Probability in Civil Engineering in Dublin, Ireland.</li>
 
 <li> <b>16/06/2023</b> - Presentation: "Fragility function uncertainty quantification in infilled RC frame buildings" at COMPDYN2023 - 9th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering in Athens, Greece </li>
-
 </ul>
-
-<details><summary>Older news</summary>
-<ul>
-
-</ul>
-
-</details>

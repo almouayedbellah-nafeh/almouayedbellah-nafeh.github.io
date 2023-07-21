@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+## Curriculum Vitae
+
 Education
 ======
 * Ph.D in Earthquake Engineering & Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/it), Present
