@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Earthquake Engineering & Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/it), Present
 * M.Sc. in Earthquake Engineering and Engineering Seismology, [IUSS Pavia, Italy](https://www.iusspavia.it/en), 2017
+* M.Sc. in Geomechanics, Civil Engineering and Risks, [Université Grenoble Alpes, France](https://www.univ-grenoble-alpes.fr/), 2016
 * B.Sc. in Civil and Environmental Engineering, [University of Balamand, Lebanon](https://www.balamand.edu.lb/home/Pages/default.aspx), 2015
 
 Work Experience
