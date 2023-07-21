@@ -1,0 +1,25 @@
+# main links links
+main:
+  - title: "Bio"
+    url: /bio/
+
+  - title: "CV"
+    url: /cv/
+
+  # - title: "Research"
+  #   url: /research/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Courses"
+    url: /teaching/
+
+  # - title: "Software"
+  #  url: /software/
+
+  # - title: "People"
+  #  url: /people/
