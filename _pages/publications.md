@@ -19,7 +19,7 @@ author_profile: true
 
 6. **Nafeh, AMB.**, O’Reilly, GJ, Monteiro R. (2020). Simplified seismic assessment of infilled RC frame structures. Bulletin of Earthquake Engineering 2020; 18(4): 1579–1611. DOI: 10.1007/s10518-019-00758-2. [[PDF](http://almouayedbellah-nafeh.github.io/files/Journal/2020_Nafeh et al_Simplified seismic assessment of infilled RC frame structures.pdf)][[Link](https://link.springer.com/article/10.1007/s10518-019-00758-2)]
 
-## Conference Papers
+## Conference Proceedings
 
 1. **Nafeh, AMB.**, O’Reilly, GJ. Towards the assessment and risk classification of existing building typologies using storey-loss functions. ICASP14 - 14th International Conference on Applications of Statistics and Probability in Civil Engineering, Dublin, Ireland: 2023. [[PDF](http://almouayedbellah-nafeh.github.io/files/Conference/2023_Nafeh, O'Reilly_Towards the assessment and risk classification of existing building typologies using storey-loss functions.pdf)][[Presentation](http://almouayedbellah-nafeh.github.io/files/Presentations/ICASP14_2023_Nafeh, O'Reilly_Towards the assessment and risk classification of existing building typologies using storey-loss functions.pdf)]
 
