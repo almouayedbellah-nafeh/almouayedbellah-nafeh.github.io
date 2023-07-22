@@ -22,3 +22,5 @@ Work Experience
 * Research Associate @ IUSS Pavia (Department of Science, Technology and Society), Italy (Jan 2021 - June 2021) - ROSSINI Project
 * Research Associate @ IUSS Pavia (Department of Science, Technology and Society), Italy (Sept 2018 - Aug 2019) - ITERATE and INFRA-NAT Project
 * Research Associate @ University of Pavia (Department of Civil Engineering and Architecture (DiCAr)), Italy (Sept 2017 - Sept 2018) - ReLuis and Departments of Excellence Consortia
+
+Download CV[[PDF](http://almouayedbellah-nafeh.github.io/files/CV_Nafeh.pdf)]
